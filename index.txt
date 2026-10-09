@@ -1,2 +1,1 @@
-Tämä on kehityshaara.
-git merge kehitys
+Tämä on Harjoitus 5:n muutos.
